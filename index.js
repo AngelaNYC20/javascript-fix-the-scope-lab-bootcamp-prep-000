@@ -14,9 +14,6 @@ function add2(n) {
   return n + two
 }
 
-var solution = n + two
-console.log(solution);
-
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
